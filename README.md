@@ -2,8 +2,10 @@
 The project is made up by two parts. The first one is the prediction of Airbnb prices in New York City using ensamble methods.
 The second one is the implementation from scratch of a decision tree. 
 
-In this repository the following files are available:\\
+In this repository the following files are available:
+
 `AB_NYC_2019.csv` : file containing the data about the airbnb prices.
+
 `NEW_NY_bnb_pricing.ipynb`: notebook where our project has been implementes
 
 ## NY Airbnb Prices 
