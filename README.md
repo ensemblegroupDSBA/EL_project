@@ -3,10 +3,18 @@ The project is made up by two parts. The first one is the prediction of Airbnb p
 The second one is the implementation from scratch of a decision tree. 
 
 ## NY Airbnb Prices 
+The implementation of the first part can be found in the Notebook `NEW_NY_bnb_pricing.ipynb`
 
-### Preprocessing:
+The project uses the data from the file `AB_NYC_2019.csv`, available on this repository.
+In order to start with the analysis, the data needs to imported as a dataframe with the following line of code: 
+```
+dt =  pd.read_csv('/content/AB_NYC_2019.csv')
+```
+The notebook is made up by different sections. In the first part "Data exploration" there will be different analysis performed on the data to have a better grasp of the characteristics of the data.
 
-### Modeling:
+The second part is the feature engineering and preprocessing, where the variables are transformed to make more appropriate for modeling and new variables are transformed.
+
+The last part is modeling, where a variety of models are tested.
 
 
 ## Decision tree implementation
