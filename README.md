@@ -6,7 +6,7 @@ In this repository the following files are available:
 
 `AB_NYC_2019.csv` : file containing the data about the airbnb prices.
 
-`NEW_NY_bnb_pricing.ipynb`: notebook where our project has been implementes
+`NEW_NY_bnb_pricing.ipynb`: notebook where our project has been implemented.
 
 ## NY Airbnb Prices 
 The implementation of the first part can be found in the Notebook `NEW_NY_bnb_pricing.ipynb`
