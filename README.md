@@ -1,6 +1,6 @@
 # EL_project: 
-The project is made up by two parts. The first one is the prediction of Airbnb prices in New York City using ensamble methods.
-The second one is the implementation from scratch of a decision tree. 
+The project aims at predicting the Airbnb prices in New York City using ensemble methods.
+
 
 In this repository the following files are available:
 
@@ -22,5 +22,3 @@ The second part is the feature engineering and preprocessing, where the variable
 
 The last part is modeling, where a variety of models are tested.
 
-
-## Decision tree implementation
